@@ -41,8 +41,8 @@ img.addEventListener('click', function(){
 // hamburger menu
 hamburger.addEventListener('click', function() {
   hamburger.classList.toggle('open');
-  nav.classList.toggle("overlay-nav");
-  list.classList.toggle("overlay");
-  showcase.classList.toggle("beneath");
+  nav.classList.toggle('overlay-nav');
+  list.classList.toggle('overlay');
+  showcase.classList.toggle('beneath');
 })
 
